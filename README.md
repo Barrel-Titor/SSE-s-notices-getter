@@ -6,7 +6,7 @@
   python 3.4
 ## 库
  [gzip](http://www.gzip.org/)
-  用于解压网页信息<／br>
+  用于解压网页信息</br>
   
       pip install gzip
   
