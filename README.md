@@ -27,6 +27,7 @@
     '1-20' —————————— 查看对应编号通知
     'n'    —————————— 向后翻页
     'b'    —————————— 向前翻页
+    'exit' —————————— 退出
 
 ## 演示
  ![](https://github.com/Hjyheart/SSE-s-notices-getter/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-03-07%20%E4%B8%8B%E5%8D%886.13.15.png)
