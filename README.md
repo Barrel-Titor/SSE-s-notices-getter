@@ -7,12 +7,17 @@
 ## 库
  [gzip](http://www.gzip.org/)
   用于解压网页信息</br>
+  
       pip install gzip</br>
+  
  [urllib](https://docs.python.org/2/library/urllib.html)
   用于获取网页源码</br>
+  
       pip install urllib</br>
+  
  [bs4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   强大的网页源码处理库</br>
+  
       pip install bs4</br>
   
 ## 功能介绍
